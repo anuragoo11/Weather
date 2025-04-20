@@ -53,7 +53,7 @@ const apiKey = "YOUR_API_KEY"; // Replace with your actual API key
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots of the app UI here for better visuals, if you want)*
+![image](https://github.com/user-attachments/assets/f402e08e-9eee-43ac-acb0-b0551aff94cb)
 
 ## 📜 License
 
